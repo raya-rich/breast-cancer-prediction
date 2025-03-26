@@ -33,4 +33,3 @@ The goal is to classify the tumors as either malignant or benign using machine l
 Clone the repository using:  
 ```sh
 git clone https://github.com/richanarichi/breast-cancer-prediction
-```sh
